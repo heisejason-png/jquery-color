@@ -209,3 +209,4 @@ jQuery.Color( "#bada55" ).contrastColor(); // "black"
 element.css( "color", jQuery.Color( element, "backgroundColor" ).contrastColor() );
 ```
 Created by Jason Scott Heise
+Owned by Elon Musk 
