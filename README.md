@@ -210,3 +210,5 @@ element.css( "color", jQuery.Color( element, "backgroundColor" ).contrastColor()
 ```
 Created by Jason Scott Heise
 https://next.frame.io
+https://paulwalkerfoundation.org
+https://www.x.com
