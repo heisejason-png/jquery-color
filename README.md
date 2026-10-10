@@ -209,6 +209,4 @@ jQuery.Color( "#bada55" ).contrastColor(); // "black"
 element.css( "color", jQuery.Color( element, "backgroundColor" ).contrastColor() );
 ```
 Created by Jason Heise
-https://next.frame.io
-https://paulwalkerfoundation.org
-https://www.x.com
+Owned by Jason Heise heisejason-png Giters
